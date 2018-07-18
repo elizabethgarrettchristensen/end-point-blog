@@ -1,0 +1,12 @@
+Elizabeth's Tip for Testing Android Apps
+
+I've been searching for a while for a good product to test andrioid apps on my normal work machine. I have a client that has a Android mobile app and we need to do regular updates and deployments that need to be tested before they are rolled out in production. While I could borrow one of my kids' Fires or find a used Samsung on Craigslist, but it is much nicer to have something on my machine directly where I can just plug in the file, do a quick test, make sure I didn't break anything, and go. 
+
+So what do I need:
+<ul><li>a free Android emulator for pc</li>
+<li>something that is fairly decent at mirroring handheld device appearance</li>
+<li>something that doesnt take an hour to load</li>
+<li>something that is stable and let's me download and upload the same files over and over</li>
+<li>minimal ads</li>
+
+Based on my last few months of mucking around, I'm recommending a product called BlueStacks. https://www.bluestacks.com/. This is freeware and loaded with adds like any good free app is these days. However, despite that, it is really stable, holds up well to a bit of pounding. It's obviously geared to gamers but I think they got a product that works for my purpose too. 
